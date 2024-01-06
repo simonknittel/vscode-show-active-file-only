@@ -5,10 +5,6 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
-
-    <a href="https://react.dev" target="_blank" rel="noreferrer">
-      <img src={ reactLogo } className="logo react" alt="React logo" />
-    </a>
+    <App /
   </React.StrictMode>,
 )
